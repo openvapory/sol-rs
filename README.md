@@ -5,7 +5,7 @@
 [travis-image]: https://travis-ci.org/paritytech/sol-rs.svg?branch=master
 [travis-url]: https://travis-ci.org/paritytech/sol-rs
 
-Solidity Smart Contracts unit test harness written in Rust using the native Parity Client EVM.
+Solaris is a Latin word meaning "pertaining to the sun" and a Solidity Smart Contracts unit test harness written in Rust using the native Parity Client EVM.
 
 ## Benefits
 
